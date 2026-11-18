@@ -1,0 +1,141 @@
+VVCMC ELECTRICAL SURVEY BACKEND — Street-light Meters & Poles
+==============================================================
+
+REFERENCE
+---------
+streetWorkersBackend (SVMS) चीच layout आणि coding convention:
+config/, controllers/, middlewares/, models/, routes/, utils/, scripts/, uploads/, index.js
+
+FOLDER STRUCTURE
+----------------
+electricalSurveyBackend/
+  config/db.js                      → MongoDB connect
+  models/
+    Meter.js          → 999 meters + photo URLs, GeoJSON location, dataFlags, poleCount
+    Pole.js           → 7,369 poles — pole{} / light{} / cable{} sub-docs, consumerId → Meter
+    User.js           → super_admin / ward_engineer / surveyor / viewer (+ ward, email)
+    ConsumerMaster.js → ward-wise consumer list (survey coverage साठी)
+    MasterData.js     → dropdown catalogue (purposes, lights+watts, poles+heights+brackets, cables)
+  controllers/
+    userController.js       → login, register, me, create/list/update users
+    meterController.js      → list (server pagination), map points, detail+poles, nearby, update, Excel export
+    poleController.js       → list, detail
+    dashboardController.js  → summary (एकाच $facet aggregation मध्ये सर्व counts, 60s cache)
+    coverageController.js   → ward-wise coverage + pending/surveyed consumer list (server pagination)
+    masterController.js     → master catalogue
+  routes/                   → userRoutes, meterRoutes, poleRoutes, dashboardRoutes
+  middlewares/auth.js       → protect (JWT), allowRoles
+  utils/
+    constants.js    → WARDS, ROLES, PURPOSES, POLE/LIGHT types, DATA_FLAGS
+    wardAccess.js   → ward_engineer फक्त स्वतःचा ward (JWT वरून, client query वरून नाही)
+    cache.js        → in-memory TTL cache (dashboard)
+    generateJwt.js
+  scripts/
+    importData.js     → Mongo JSON export + CSV → MongoDB (meters, poles, master, users, photos)
+    seedSuperAdmin.js → पहिला admin user
+  data/              → मूळ CSV files (ward_A..I.csv, MeterData.csv, polesData.csv)
+  data/mongoExport/  → startto29April export (VVCM.resnewdatas / resnewdats / staticdatas / logindatas)
+                       logindatas मधले plaintext "Password" field काढून टाकले — फक्त bcrypt hash ठेवला
+  uploads/meterPhotos, uploads/polePhotos → import script इथे photos + _thumb.webp लिहितो
+
+SETUP
+-----
+1) npm install
+2) cp .env.example .env     (MONGO_URI, JWT_SECRET बदला)
+3) npm run import:dry       → DB शिवाय सर्व rows parse + validate, import-report.json बनतो
+                              (अपेक्षित: meters 999, poles 7369, master 1548, users 12, skipped 0)
+4) npm run import:data      → MongoDB मध्ये upsert (पुन्हा चालवला तरी duplicate होत नाही)
+   npm run import:fresh     → आधी meters/poles रिकामे करून import
+5) npm run seed:admin       → admin / Admin@123 (.env मध्ये बदला)
+6) npm run dev              → http://localhost:5009
+
+DATA (UPDATE) — startto29April Mongo export
+-------------------------------------------
+हा जुन्या VVCM app च्या database चा export आहे (survey April 2025 पर्यंत) — CSV पेक्षा खूप जास्त:
+• resnewdatas = 999 meters (CSV चे सगळे 538 यात आहेत). resnewdats (420) = त्याचाच जुना subset.
+  120 CSV rows चा ApplicationID वेगळा होता — ConsumerID + Date + Time ने match करून merge केले.
+• प्रत्येक meter च्या "Response" array मध्ये poles: 7,341 (+ polesData.csv चे जुने 28 = 7,369).
+  नवीन: TypesofCable (Underground/Overhead, Aluminium/Copper, 4x6/4x10/4x16/4x25).
+  107 poles ना GPS नाही → location optional + "missing_location" flag.
+• नवीन values: Purpose Pond/Lake, Dafan Bhumi, Kabrastan; Pole "On Wall"; Light "Matal Helide(MH)".
+• Photos: export मध्ये फक्त filenames आहेत. Actual photos फक्त MeterData.csv (130) + polesData.csv (28).
+• staticdatas.WardConsumer → ConsumerMaster (Survey Coverage page).
+  ⚠ ConsumerID number म्हणून साठवल्याने leading zeros गेले होते ("001544075876" vs 1544075876) —
+    सर्व ConsumerIDs leading zeros शिवाय normalize केले (original consumerIdRaw मध्ये). यामुळे
+    coverage 36% → 65% (993 / 1,528) आला.
+  ⚠ list मध्ये 120, 12345, 563893 सारखे survey test IDs पण आहेत → ही list शुद्ध MSEB list नाही,
+    जुन्या app ने survey मधले IDs पण add केलेले दिसतात. 20 junk IDs (236, 666466646664 …)
+    suspicious=true — coverage मध्ये धरले नाहीत.
+• Light count: 247 poles वर bracket पेक्षा जास्त lights (1-way bracket GI pole वर 17, 50 …) —
+  surveyor ने serial number टाकल्यासारखे. "suspicious_light_count", light totals मध्ये धरले नाहीत.
+  Rule: N-way bracket → max N×2; bracket नाही → 4; HighMast → 16.
+• logindatas → 12 users. Role map: Admin → super_admin, Junior Engineer → ward_engineer,
+  Surveyor → surveyor. Login username (email चा @ आधीचा भाग, उदा. "warda") किंवा पूर्ण email ने.
+  आधीपासून असलेला username overwrite होत नाही. ⚠ हे जुने passwords कमकुवत आहेत — live आधी बदला.
+
+DATA — CSV मध्ये काय सापडलं आणि कसं handle केलं
+-------------------------------------------------
+• ward_A..I.csv = 538 meters.  MeterData.csv = MeterData_1.csv (दोन्ही identical) —
+  फक्त 131 meters चे base64 photos. ApplicationID = ward CSV मधील photo filename चा UUID.
+• 1 photo (8137db5c… "tapsya kacha road") CSV मध्येच रिकामा आहे → "image_not_available".
+• Sept-22 survey चे 118 rows .png filename + SanctionLoad + TimerPanel सोबत आहेत, पण त्यांचे photos
+  कुठल्याच CSV मध्ये नाहीत → "image_not_available". Photos मिळाले तर MeterData.csv format मध्ये टाकून
+  पुन्हा import करा.
+• काही Address मध्ये unquoted comma ("Ghatal nagar, Adivasi pada") आणि काही files ना trailing comma —
+  पहिले 5 + शेवटचे 8 columns fixed घेऊन मधला भाग Address म्हणून घेतला. 538/538 rows valid.
+• ConsumerID String म्हणून (12-14 digits Number मध्ये precision जाते).
+• Date + Time → IST Date (surveyedAt). Lat/Lng → GeoJSON Point [lng, lat] + 2dsphere index.
+• polesData.csv: TypeofPole / TypeofLight Python-dict strings → pole{name,height,heightMeters,bracketType,bracket},
+  light{name,watts,wattsMin,wattsMax}. Base64 photo → uploads/polePhotos. जुना _id तसाच ठेवला.
+• Base64 photos DB मध्ये ठेवले नाहीत (26 MB) — files + 320px webp thumbnail (~40 KB) — list fast.
+
+DATA FLAGS (data delete केला नाही — फक्त flag)
+---------------------------------------------
+test_entry             → 12345/xyz, 120/abc chowk, ss, 563893/viva (meters) ; 123456, 9876543210 (poles)
+                          lists/dashboard मधून default लपवलेले — ?includeFlagged=true ने दिसतात
+suspicious_consumer_id → 9 पेक्षा कमी / 13 पेक्षा जास्त digits (10 meters)
+missing_image / image_not_available / missing_address
+no_matching_meter      → 8 poles चे ConsumerID कुठल्याच meter मध्ये नाहीत (काही mobile numbers सारखे दिसतात)
+not_in_master_list     → 13 meters चे ConsumerID ward consumer list मध्ये नाहीत
+missing_location       → 107 poles ना GPS नाही
+suspicious_light_count → 247 poles (वर पहा) — dashboard light total मध्ये धरले नाहीत
+out_of_area            → 2 Ward B poles ची lat 18.92 (South Mumbai) — GPS चूक
+
+SPEED
+-----
+• 7k poles map: compact arrays + frontend वर एकच canvas layer (प्रति marker React component नाही)
+• Meter.poleCount denormalized — list मध्ये $lookup नाही
+• Compound indexes: {ward, surveyedAt}, {dataFlags, ward, surveyedAt}, {ward, purpose, phaseType},
+  2dsphere (meters + poles), {ward, consumerId} poles, unique applicationId / legacyId
+• Server-side pagination (limit max 200), .lean() list queries, फक्त लागणारे fields (/map)
+• Dashboard: एक $facet aggregation + 60s in-memory cache (meter edit वर clear)
+• gzip compression, helmet, login/register rate limit
+• Photos: 320px webp thumbnails, static files 7-day cache
+
+API
+---
+POST  /api/users/login              { userName, password }
+POST  /api/users/register           { fullName, userName, mobileNumber?, password } → role viewer
+GET   /api/users/me
+POST  /api/users/create             (super_admin)
+GET   /api/users/getAll             (super_admin)
+PATCH /api/users/:id                (super_admin) { role, ward, isActive }
+
+GET   /api/dashboard/summary        ?ward=&includeFlagged=
+GET   /api/meters/getAll            ?page&limit&sort&order&search&ward&purpose&phaseType&hasImage&hasTimerPanel&flag&includeFlagged&from&to
+GET   /api/meters/map               (lightweight points)
+GET   /api/meters/nearby            ?lat&lng&radius(m)
+GET   /api/meters/export            (same filters → .xlsx)
+GET   /api/meters/:id               (+ linked poles)
+PATCH /api/meters/:id               (ward_engineer own ward / super_admin)
+GET   /api/poles/getAll             ?page&limit&ward&consumerId&poleType&lightType&cableType&flag&includeFlagged
+GET   /api/poles/map                (compact [lat,lng,pole,light,consumerId] arrays)
+GET   /api/poles/:id
+GET   /api/coverage/summary         ?ward=
+GET   /api/coverage/consumers       ?status=pending|surveyed&ward&search&page&limit
+GET   /api/master                   (dropdown catalogue)
+
+MongoDB 5.0+ लागेल ($lookup with localField + pipeline — coverage APIs).
+
+REGISTRATION_AUTO_APPROVE=false केलं तर नवीन registrations inactive राहतात — super_admin
+User Management मधून activate करतो.

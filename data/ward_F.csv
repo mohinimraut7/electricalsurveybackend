@@ -1,0 +1,20 @@
+WardCommittee,ConsumerID,NewMeterNumber,Purpose,Type,Address,MeterImageData,TimerPanelImage,SanctionLoad,TimerPanel,MeterLatitude,MeterLongitude,Date,Time
+F,900390000031,,Street light,Single Phase(1),shivaji nagar ward F ,e27489fe-eef2-4f7f-a386-956e619ef917.png,101a6161-35ec-466a-bf89-593439aa12b8.png,6,Yes,19.4173822,72.8568803,2024-09-22,12:59:31
+F,2123828392,,Street light,Three Phase(3),phanas pada samta nagar,40863b7f-35da-4e95-b4a6-aa41b1e505a0.png,7cc60104-9490-45dd-9500-742a32ecd779.png,5,Yes,19.4181059,72.8580838,2024-09-22,13:05:46
+F,1843857431,,Street light,Three Phase(3),phanas pada,e62e94ba-f386-4b10-aa10-280e40de1fdb.png,e32ae7fd-70fb-4b49-b4f7-4507f6cf2d24.png,5,Yes,19.4197286,72.8586694,2024-09-22,13:10:05
+F,21738069921,,Street light,Three Phase(3),khairpada khatri nagar,449fa087-b02d-43e8-975e-5e65af206ebf.png,6215ac98-efd8-4d74-89eb-ee5ed4b47b5c.png,5,Yes,19.418554,72.8560659,2024-09-22,13:18:53
+F,2171794452,,Street light,Three Phase(3),Durga Mata mandir chaudhari khadan road,99f678b2-06d6-4d49-8208-b8a1eff14b06.png,bc4e182a-f9d6-43c2-92d1-3c10328ca409.png,5,Yes,19.4214987,72.8561895,2024-09-22,13:27:40
+F,2178406542,,Street light,Three Phase(3),ad nagar phanas pada,c29a54ad-836f-427e-bbd4-da6248377e23.png,2136fd70-6dcc-4540-8d77-dae1a8da0063.png,5,Yes,19.4214515,72.8589822,2024-09-22,13:34:31
+F,1843880441,,Street light,Three Phase(3),phanas pada ,4e540e3b-b950-4aad-9478-3ecee87e7aa1.png,c102d265-6ce3-42cc-a62b-470f1931137c.png,5,Yes,19.4189365,72.8599614,2024-09-22,13:41:26
+F,1841898318,,Street light,Three Phase(3),vithal mandir hayat tower,b3636ca9-451d-4028-9f6c-d615ecb5a142.png,c6052a4e-9983-4628-8644-6df9aa307462.png,5,Yes,19.4209673,72.8643752,2024-09-22,13:48:45
+F,1941822629,,Street light,Three Phase(3),vasai phata,9bb7acd6-4b4e-4cdf-a667-9d5a72a2f8d0.png,ee5ca2c0-3bce-404a-9faa-09173bb665e2.png,5,Yes,19.430235,72.8716127,2024-09-22,13:57:21
+F,1941822645,,Street light,Three Phase(3),Shanti nagar naka,8e466538-6590-4a6b-a031-cd7ef3f175b4.png,422eda25-0eac-4af5-9d6c-08cfc2f7cbf0.png,5,Yes,19.4270155,72.8676042,2024-09-22,14:02:09
+F,1943792689,,Street light,Three Phase(3),dongar pada,448b0962-57a6-43f6-890c-03342bc8cb23.png,fb154653-daed-4e13-bbf6-053b64057dee.png,6,Yes,19.4518786,72.8840419,2024-09-22,16:47:29
+F,1843932467,,Street light,Three Phase(3),पेल्हार office opposit,a97e9aee-8112-452e-aeb3-bef033c1a90c.png,6639e04c-ee0e-4003-ab5a-059d1298f92f.png,11,Yes,19.4466981,72.886371,2024-09-22,16:55:50
+F,1943806825,,Street light,Three Phase(3),पेल्हर gaov,6b9a291d-bfa1-4954-b8b4-9ad0273762f3.png,3862f73e-5dc6-4cf6-94f2-219d30235d44.png,7.63,Yes,19.4463006,72.8837686,2024-09-22,17:01:08
+F,900450000061,,Street light,Single Phase(1),vartak vasahat,104f024f-2562-471a-b0b6-624ba60d1c09.png,365a8764-8847-4c70-ba12-74992f8865aa.png,0.40,Yes,19.4542436,72.884588,2024-09-22,17:07:14
+F,1943806841,,Street light,Three Phase(3),sopara fata,ab881f88-355b-470f-bfa3-4773d2801a50.png,b871ce61-b9bf-4024-9cbe-bcb2828c988b.png,7.70,Yes,19.4400396,72.8798275,2024-09-22,17:18:23
+F,1943971699,,Street light,Three Phase(3),sarve no 290 jabar pada,662d8c7d-d692-4344-ab4f-bd28c47ae3eb.png,4618360a-5e3f-4f74-bd5b-f0761871cc23.png,11,Yes,19.44161,72.8872783,2024-09-22,17:27:38
+F,1943206817,,Street light,Three Phase(3),jabar pada,25401d74-f70f-4d10-97fe-9efd47047b54.png,1da3afcd-2f29-4375-93b8-2e8672fbd089.png,7.63,Yes,19.4389069,72.8872295,2024-09-22,17:45:41
+F,1943948506,,Smashan Bhumi,Single Phase(1),jabar pada ,21246d1b-faba-40ec-b924-7b54b629e8f7.png,88c6ebc6-7b83-448c-be39-56332e2f38a7.png,0.63,Yes,19.4377983,72.8874983,2024-09-22,17:50:30
+F,900440000046,,Street light,Single Phase(1),ranshet pada,b478e150-0a1e-4bd3-8d79-7ce0f47c40c2.png,16f8a7e9-50f7-44a4-b39f-962a34d4b29a.png,6.00,Yes,19.4359467,72.8871267,2024-09-22,17:54:40

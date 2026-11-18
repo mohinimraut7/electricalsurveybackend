@@ -1,0 +1,77 @@
+WardCommittee,ConsumerID,NewMeterNumber,Purpose,Type,Address,MeterImageData,TimerPanelImage,SanctionLoad,TimerPanel,MeterLatitude,MeterLongitude,Date,Time
+C,900011200011,,Street light,Three Phase(3),,529d799c-932b-4154-b2ba-1cae4784b4dc_meter.jpg,,,,19.4583805,72.8119531,2024-09-20,15:33:25
+C,900011200100,,Street light,Three Phase(3),virar,24d1f877-217e-4740-95d5-472d094d2813_meter.jpg,,,,19.4580927,72.8135635,2024-09-20,15:37:11
+C,900011200398,,Street light,Three Phase(3),virar,63942993-8a7b-4029-8db1-173b9adf35f9_meter.jpg,,,,19.4581954,72.8153613,2024-09-20,16:20:37
+C,900011200029,,Street light,Three Phase(3),virar sai baba mandir ,7bb37310-4a59-4953-befd-3cea174934a1_meter.jpg,,,,19.4597891,72.8136304,2024-09-20,16:27:15
+C,1521440828,,Street light,Single Phase(1),virar ,d8c14299-cffe-4e5a-bae6-7945a49bb6ea_meter.jpg,,,,19.4561229,72.8167981,2024-09-20,16:32:03
+C,1526474721,,Street light,Three Phase(3),virar ,4285661b-e111-45a1-8686-cad14066cb6c_meter.jpg,,,,19.4548456,72.8185594,2024-09-20,16:40:01
+C,900011201017,,Street light,Three Phase(3),virar,a3fa760e-393d-439a-aad5-2e96c5b28b5a_meter.jpg,,,,19.455149,72.8212333,2024-09-20,16:44:38
+C,900011200045,,Street light,Three Phase(3),vasi virar ,8c499c8e-f5ca-4aa1-a1d9-b16c883c0f2a_meter.jpg,,,,19.4626888,72.8142319,2024-09-20,16:47:56
+C,1524209353,,Street light,Three Phase(3),virar,ea183c0d-3d59-4a85-a58d-7534ea092383_meter.jpg,,,,19.4555119,72.8248263,2024-09-20,16:50:47
+C,900011200053,,Street light,Three Phase(3),vasi virar ,dd2932d7-2c80-463f-ab3c-948e2488d963_meter.jpg,,,,19.4641856,72.8127527,2024-09-20,16:54:08
+C,1524209361,,Street light,Three Phase(3),virar,7e870ee5-ed3c-4356-801c-1d5ea3c72b40_meter.jpg,,,,19.4568194,72.8256703,2024-09-20,16:54:57
+C,1521440879,,Street light,Three Phase(3),virar,6601fb64-0a6c-49a0-8db5-5c9fa875b17d_meter.jpg,,,,19.4545445,72.8251426,2024-09-20,16:59:30
+C,900011201009,,Street light,Three Phase(3),virar ,8c3eec60-5b16-4ee0-9c34-9b74c96a91f3_meter.jpg,,,,19.4530871,72.8280141,2024-09-20,17:04:23
+C,900011200061,,Street light,Three Phase(3),Ganpati mandir,29ada6bf-c7d1-4f8b-9272-baebe892becf_meter.jpg,,,,19.4666166,72.8157677,2024-09-20,17:07:17
+C,900011200444,,Street light,Three Phase(3),virar,873267b2-0e8e-4916-9b59-7d6d6f05c4a8_meter.jpg,,,,19.4548512,72.8269012,2024-09-20,17:09:47
+C,900010006741,,Street light,Three Phase(3),virar ,4df29eaf-bc7e-4e21-be92-ad706ae18b95_meter.jpg,,,,19.4567275,72.8278114,2024-09-20,17:21:27
+C,900011200088,,Street light,Three Phase(3),Sainath Nagar,9cd72448-75dd-4ac4-91b5-06f6b745e5fe_meter.jpg,,,,19.471847,72.8200493,2024-09-20,17:26:22
+C,900011200134,,Street light,Three Phase(3),virar ,53a4ab97-0e44-455c-9880-811d7aa65f19_meter.jpg,,,,19.4555593,72.8291647,2024-09-20,17:27:16
+C,1524210009,,Street light,Three Phase(3),virar ,df40c728-b7d9-44e3-b7e2-658685a6eb76_meter.jpg,,,,19.4546838,72.826535,2024-09-20,17:38:23
+C,1521440887,,Street light,Single Phase(1),virar,fb23f6c5-717e-4daf-99e4-91d1accff1c0_meter.jpg,,,,19.4526001,72.8228321,2024-09-20,17:50:50
+C,900011200118,,Street light,Three Phase(3),jivdani road Ambedkar Nagar,185ffe32-3a37-4084-965d-a6e9be51b3ee_meter.jpg,,,,19.460933,72.8207525,2024-09-20,17:55:43
+C,900010006709,,Street light,Three Phase(3),virar ,ad0f2ef4-4cfe-4c4b-b8b0-ccfc0d7a8780_meter.jpg,,,,19.4550869,72.8150155,2024-09-20,18:02:26
+C,900011200720,,Street light,Three Phase(3),virar,4a25316a-5ddd-4b63-a450-131104839db4_meter.jpg,,,,19.4537247,72.8203484,2024-09-20,17:55:08
+C,1510504794,,Street light,Three Phase(3),hill park ,ee0129a7-473b-4ed2-a1f5-8be81098d441.png,aa04a672-c656-4ef3-8631-5d40b29f5071.png,5,Yes,19.4593383,72.8189033,2024-09-22,11:02:28
+C,900011200355,,Street light,Three Phase(3),Akshay society ,a562edf0-f5da-46b2-b8ba-6394abed480e.png,e45c46a4-6bf7-4668-a9c0-4480712b61f6.png,9.60,Yes,19.4597158,72.815845,2024-09-22,11:05:52
+C,1510406032,,Street light,Three Phase(3),siraj wadi,acd07f0a-5fda-46c7-859f-ed48fada79ac.png,7f82f224-c6c8-4acc-be15-f6771a6aff57.png,5.60,Yes,19.4594501,72.8121614,2024-09-22,11:13:37
+C,1521493239,,Street light,Three Phase(3),shri vitho maya marg wadi,1bc5eedf-561e-43e7-9692-7e2481f99204.png,911b0132-f1f4-4ab5-9a54-12067a1fa3e7.png,7.60,Yes,19.4589887,72.81199,2024-09-22,11:16:15
+C,900011200762,,Street light,Three Phase(3),àpna nagar,c6c13910-2357-470b-912f-f8406440975f.png,4fd8080e-a006-49a9-9edf-4cae2d24f88f.png,5,Yes,19.460665,72.81286,2024-09-22,11:22:20
+C,900011200371,,Street light,Three Phase(3),jignesh vedot,1beb1d11-8e3e-4d2a-91a6-2b5b10514311.png,b1f10126-4c1e-443c-82d1-575b2fda2a43.png,5.5,Yes,19.4612469,72.8143443,2024-09-22,11:26:01
+C,1510502832,,Street light,Three Phase(3),air india,bb5e77d2-58e6-460a-8971-105d685ed270.png,f1f11fb9-da85-466e-9660-88f6ff5891b1.png,3.3,Yes,19.4625667,72.815377,2024-09-22,11:30:02
+C,90001120020074,,Street light,Three Phase(3),edi ga zhopade pati,d16808a7-aa13-483d-850a-6e520aeef8ab.png,927d389c-992c-49ea-9b9b-9b037ede8bee.png,9,Yes,19.4635116,72.8146111,2024-09-22,11:34:50
+C,1510504816,,Street light,Three Phase(3),makhwana ,3feaa8d0-8f53-4c2b-a3f0-c3b4bdd1187f.png,3fa5e4fc-da88-4a8d-8d26-021414b83078.png,3.3,Yes,19.4654581,72.8128127,2024-09-22,11:38:05
+C,900011200207,,Street light,Three Phase(3),sai data zhopade pati,354ff9e5-0c69-4087-b9b0-5e72baa00601.png,57750be7-14ce-41e6-9e72-bee21cd3edae.png,6.30,Yes,19.4643766,72.8149633,2024-09-22,11:42:56
+C,1510548538,,Street light,Three Phase(3),ramo compound ,a1417b9e-a882-466a-8673-a248ab155b77.png,efb8a10d-29a4-48ef-8270-a31ea3bafc32.png,8,Yes,19.4668674,72.8155005,2024-09-22,11:45:34
+C,1510215996,,Street light,Three Phase(3),parek industry ,5065538a-6050-475d-b148-32bd0f5eb4e8.png,c94427f8-ff18-4766-a9cc-1028372297ef.png,4.20,Yes,19.4670604,72.8159187,2024-09-22,11:48:11
+C,90011200771,,Street light,Three Phase(3),chamandya nagar,2d14c3b9-ceb0-46d7-b8ef-b92d4b32ca1c.png,4cf5ba62-688d-4a22-856e-42f843d1457f.png,4.30,Yes,19.4675338,72.8144732,2024-09-22,11:51:18
+C,900011200223,,Street light,Three Phase(3),naragi railway fatak,6fd566c4-f79b-4803-9d0e-f8fdea3ae874.png,fbd1865f-051c-4a77-b487-f5410b736594.png,9.50,Yes,19.4717158,72.8125304,2024-09-22,11:55:03
+C,1517122417,,Street light,Three Phase(3),narangi shiv dongri,b1ee85a1-7470-4f78-ad8c-7b369379e421.png,4e0bb981-fd47-46f7-8454-0cc80260b8d9.png,5,Yes,19.4731867,72.8127633,2024-09-22,11:58:31
+C,1510504808,,Street light,Three Phase(3),jay shree nagar,86cda6a5-0f1e-4257-9fb2-0958d881c5d2.png,5925a7c5-2da8-4570-b832-49badd2beb12.png,2.6,Yes,19.4757484,72.8137821,2024-09-22,12:01:26
+C,900011200436,,Street light,Three Phase(3),janu wadi,f9e840ca-acec-41a1-9387-88cb6faf3eca.png,058dc686-0f30-48a8-80a4-19e110d44132.png,10.9,Yes,19.472413,72.8183637,2024-09-22,12:09:09
+C,15105485461,,Street light,Three Phase(3),sai nath naka ,37bce338-be8a-4784-a4f3-d38def099ca4.png,b2483e7e-f4fa-4ea6-9df2-82a42c0e2b75.png,8,Yes,19.4715605,72.8195768,2024-09-22,12:11:48
+C,1510504824,,Street light,Single Phase(1),vashnavi nagar,6b1cc805-96f7-444b-864c-44f6c7ed7307.png,1d2942fd-a011-4fc8-b6b1-79e3ae2a3ae1.png,3.3,Yes,19.4707983,72.8198403,2024-09-22,12:14:23
+C,900011200363,,Street light,Three Phase(3),manu bhai,fd7e6f91-29d2-4b1b-8f62-2660bca0ee83.png,48a6a771-553f-4c2d-bda1-8606c08cc09e.png,8,Yes,19.4684572,72.8165097,2024-09-22,12:18:36
+C,900011200401,,Street light,Three Phase(3),pragathi industry,94188902-cf9e-4c88-8a41-6aa6abf53924.png,47b6ddaf-320f-4285-a27c-a3bb20b1f7a4.png,4,Yes,19.4699498,72.8156269,2024-09-22,12:21:18
+C,90003001300046,,Street light,Three Phase(3),sani mandir ghas kopari,cbe59541-c728-4deb-b47a-b8dd1f241f92.png,0cc4257e-7650-475d-bb82-f3ef09d8077c.png,4,Yes,19.4784081,72.8208744,2024-09-22,12:35:14
+C,24370118,,Street light,Three Phase(3),shani mandir gav ghas kopari ,7216a174-e739-4799-b4bf-5820df6787c2.png,bbb8d9a8-eecf-46bd-86df-6a2f1092bbae.png,5,Yes,19.4791954,72.8188555,2024-09-22,12:37:57
+C,2431370126,,Street light,Three Phase(3),suprya nagar,f2693271-6c54-4cc3-a79a-925ca95da84a.png,9168a32f-8b2d-4334-95b4-49d73d6c575e.png,7.30,Yes,19.480725,72.8206917,2024-09-22,12:42:12
+C,9000300130011,,Street light,Three Phase(3),satyanarayan nagar kopri,071b6780-d4b5-4a69-91e9-8b5536a85610.png,f0dffe22-22c8-4a14-a25d-a3d48b1029d7.png,1,Yes,19.4798216,72.823081,2024-09-22,12:46:00
+C,1911323822,,Street light,Three Phase(3),shir gav,ffd74397-9592-476f-a634-ea0d52fe2738.png,7d21afaa-0afb-4daa-a338-e49e58526060.png,7.30,Yes,19.4811834,72.8399732,2024-09-22,12:55:43
+C,900041400014,,Street light,Three Phase(3),hanuman mandir shir gav ,a9744095-c1bb-47cc-9d26-840a79b77485.png,40d95b54-97f2-4a68-bae6-accd1beea900.png,5.30,Yes,19.4815375,72.8410864,2024-09-22,13:00:44
+C,1911320548,,Street light,Three Phase(3),shidhart nagar,d724214b-ee64-4942-895e-8990ae00302e.png,ef05f727-4b47-45f3-a95e-710f4eeeaaa9.png,7.30,Yes,19.4818533,72.8418607,2024-09-22,13:05:05
+C,1911320521,,Street light,Three Phase(3),khandar pada ,4d460e3f-f47f-482f-afe4-84a5882f9f87.png,6c0d9529-28b6-4c16-9ebb-e97cca40bc0f.png,7.30,Yes,19.486725,72.8470583,2024-09-22,13:08:39
+C,1911325530,,Street light,Three Phase(3),takpada ,d3e2c389-1db0-4b12-a6e6-900a7d82c8a3.png,4f8b76b0-8606-4891-ab25-c15304426437.png,7.30,Yes,19.4850917,72.8528783,2024-09-22,13:13:55
+C,1911302779,,Street light,Three Phase(3),kombhar pada college ,fa9c796b-9c1e-4ddb-8d91-5077a123508e.png,78d971f0-6774-4ce1-9cae-946dc5d00564.png,7.30,Yes,19.4728683,72.8611417,2024-09-22,13:20:15
+C,153366484846,,Street light,Three Phase(3),khumbar pada naka ,296ddde0-e61a-414a-b88b-433f2db5ad20.png,2232bced-bd95-4435-88e7-de292e4b9da1.png,7.30,Yes,19.4688594,72.8623864,2024-09-22,13:26:10
+C,90004140002,,Street light,Three Phase(3),gadga pada ,4e79ddff-fff7-4231-8dbf-bd7ba556c7dc.png,e7de83ee-c52d-42d0-8e8a-8c622c965f56.png,5,Yes,19.470225,72.8504483,2024-09-22,13:32:18
+C,19113205561,,Street light,Three Phase(3),adivasi pada mat road,528d3fe4-6e77-4d22-ab9c-f31bb0dd13d4.png,29c5c5f0-0bdd-4770-a860-5a932d921479.png,8,Yes,19.474065,72.847665,2024-09-22,13:38:11
+C,1911316559,,Street light,Three Phase(3),govari nagar gadgapada,3a4dd07c-effc-4b8f-a5ea-00d69d13be36.png,73f1cd62-0bb5-4a0b-9a92-012ec59e9bc9.png,7.30,Yes,19.46821,72.8510283,2024-09-22,13:43:31
+C,1911316567,,Street light,Three Phase(3),baraf pada 2,1450b895-8079-468d-84e8-807db37ec249.png,addd23cb-1779-4afe-ac64-de8288be16b2.png,7.30,Yes,19.4637061,72.8497276,2024-09-22,13:48:47
+C,1911316541,,Street light,Three Phase(3),baraf pada 1,2b492548-3041-49b0-baec-ed6d86a7c159.png,8c84e260-053b-4c5c-b350-84009eb2ae58.png,7.30,Yes,19.467085,72.8478617,2024-09-22,13:52:21
+C,1884097211,,Street light,Three Phase(3),data mandir ,57970d9d-c2b4-44af-abad-066ff41439ff.png,094c4e8d-7fac-415e-a56f-6d2ae8016f8a.png,7.40,Yes,19.4671517,72.8445083,2024-09-22,13:56:53
+C,900031300038,,Street light,Three Phase(3),rto bhat pada ,9add060d-0991-4331-bac4-2dee4a57185c.png,9e50b3a5-fd84-4dfd-b738-bb24ae427022.png,4,Yes,19.4698429,72.8414928,2024-09-22,14:00:31
+C,1884165195,,Street light,Three Phase(3),gadedr talav,68c3bee2-c311-4fbe-ae5e-3f3543e3a7ce.png,6f07775f-ab64-42ab-be5b-5b7c904e7999.png,10,Yes,19.4700003,72.8386402,2024-09-22,14:03:15
+C,1884117735,,Street light,Single Phase(1),ghas pada,49d62ce3-af8e-4e6b-a422-0aff99109360.png,b96637dd-b073-4487-8577-abb613a4df03.png,3,Yes,19.467913,72.8387136,2024-09-22,14:06:44
+C,1880275433,,Street light,Three Phase(3),katkari pada ,d57b2476-2f18-404f-b5e0-0f999104ca87.png,aa03831e-2924-4e49-9a0d-3d5d9d85df94.png,3,Yes,19.4726379,72.8325024,2024-09-22,14:10:33
+C,1884154568,,Street light,Three Phase(3),katkari pada chandasar,dd4d6b3c-2cda-42fa-9f96-006bcf0c2b53.png,d6ed8b2a-9a8f-4062-8a38-94a181baf7c4.png,7.30,Yes,19.471785,72.8317733,2024-09-22,14:14:09
+C,1884146239,,Street light,Three Phase(3),katkari pada rashma ,7ee8563a-1c6d-4f9d-a264-7af509df2fde.png,e7f19102-9117-466c-acd4-dff4a7cf2c20.png,6.30,Yes,19.4714312,72.8322123,2024-09-22,14:15:59
+C,900031300020,,Street light,Three Phase(3),r.k ,2aa7d3eb-0756-49f0-9b0f-d5a4458881dd.png,d19c15ea-9933-4497-ab6e-885ba3aeec8d.png,1.7,Yes,19.4734703,72.8306572,2024-09-22,14:19:31
+C,90003001300054,,Street light,Three Phase(3),kopri naka ,6e762c76-b8cd-41c1-986c-68b02c32f086.png,c2ef3fca-413f-40fb-9be6-cf4e4f983fce.png,5,Yes,19.4734323,72.8242752,2024-09-22,14:25:28
+C,2431376370,,Street light,Single Phase(1),mbr turn ghas kopari naka,7cd14b3b-6393-4678-b308-bf30b748fcb9.png,e39a960b-e6df-4ef0-b675-c5d02e43409b.png,5,Yes,19.4734546,72.8229476,2024-09-22,14:27:27
+C,900011200711,,Street light,Three Phase(3),pach payri,a78ae5f8-9948-476a-8457-924427bb4a35.png,380829e5-bc6a-454d-b269-37eb07239582.png,3.8,Yes,19.4685817,72.8206067,2024-09-22,14:32:33
+C,9000112023,,Street light,Three Phase(3),patil general store,b791b69b-5a49-43da-91aa-33718f2569c5.png,abe9576c-b830-4008-b695-4b99afa8bc47.png,11,Yes,19.462985,72.8234317,2024-09-22,14:36:00
+C,9000011200428,,Street light,Three Phase(3),kavlgandhi pada,2eb7b795-211e-45d8-b070-c1c635d0a357.png,133de49f-5126-4d85-858a-9e769d1a933c.png,30,Yes,19.4630048,72.8252601,2024-09-22,14:39:34
+C,900011200321,,Street light,Three Phase(3),vithormali compaund,840772b0-8e45-4a31-8c18-f54fa7afebc4.png,6934046e-dc64-4382-974d-7fb1cc556bdd.png,9,Yes,19.4587978,72.8249543,2024-09-22,14:51:37
+C,900010006725,,Street light,Three Phase(3),chandan ghari charger company,9984e2bb-1b72-49ec-b155-46da12934946.png,632c439f-d76b-4f95-a2e2-fcdd1493d2df.png,2.4,Yes,19.4578134,72.8260666,2024-09-22,14:55:25
+C,900011200126,,Street light,Three Phase(3),pathak school,18713994-90f3-4383-a9c3-e2e84005e178.png,86d5d583-3ad3-4771-bf33-fa1bd646a1ad.png,9.50,Yes,19.4580296,72.82678,2024-09-22,14:58:06

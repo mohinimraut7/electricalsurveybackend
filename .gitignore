@@ -1,0 +1,5 @@
+node_modules/
+.env
+uploads/meterPhotos/*
+uploads/polePhotos/*
+!uploads/**/.gitkeep

@@ -1,0 +1,62 @@
+WardCommittee,ConsumerID,NewMeterNumber,Purpose,Type,Address,MeterImageData,TimerPanelImage,SanctionLoad,TimerPanel,MeterLatitude,MeterLongitude,Date,Time,
+H,900010031185,,Street light,Three Phase(3),Rajesh Park,8721a2fa-a4ca-4a4f-88d0-7879e6909806_meter.jpg,,,,19.3891211,72.8227849,2024-09-20,11:53:02,
+H,900010031177,,Street light,Three Phase(3),Krishna Township,50f18bf4-6f5f-4bd3-8f67-a0f871241d6c_meter.jpg,,,,19.3913748,72.8233912,2024-09-20,12:04:17,
+H,900010031207,,Street light,Three Phase(3),Om nagar near ganpati mandir,b200518e-b05f-475b-8ee5-d5ff2e34b21b_meter.jpg,,,,19.391512,72.8265193,2024-09-20,12:13:22,
+H,900010031118,,Street light,Three Phase(3),Vishal Nagar panchvati,e46dd1d5-9d50-4c9c-ac05-476e1f4d07c0_meter.jpg,,,,19.3887216,72.8271972,2024-09-20,12:18:26,
+H,900010031126,,Street light,Three Phase(3),Police station arihant medical,62b52737-0d1d-4ef2-a974-f5e697ae3c7a_meter.jpg,,,,19.386036,72.8273631,2024-09-20,12:24:49,
+H,900011000411,,Street light,Three Phase(3),Royal Shopping center,ab40b8b1-3d3c-43a4-b29d-c2a564dc9c32_meter.jpg,,,,19.3858819,72.8266726,2024-09-20,12:27:15,
+H,900010031100,,Street light,Three Phase(3),Shastri Nagar near ganpati mandir,d8651f35-bfe4-4dac-86ce-ea0dcfbb4f85_meter.jpg,,,,19.3867017,72.828943,2024-09-20,12:22:36,
+H,900010031312,,Street light,Three Phase(3),100ft road near Raasleela Housing society,7ace5073-6f3f-4f73-a99b-56be38f3aca9_meter.jpg,,,,19.3867563,72.8265371,2024-09-20,12:30:44,
+H,900010030928,,Street light,Three Phase(3),Manav Mandir,847ba1f2-9b3e-494f-a031-0088e0e67e57_meter.jpg,,,,19.385134,72.8253814,2024-09-20,12:33:36,
+H,900010031223,,Street light,Three Phase(3),Dhuri Complex,50392a89-562b-4142-8b30-1ae7bbcb00dc_meter.jpg,,,,19.3930426,72.825388,2024-09-20,12:09:43,
+H,900010013410,,Street light,Three Phase(3),60ft Road opposite janta Sweets,3498f60b-6efc-4f78-afed-f74fb87ca5e6_meter.jpg,,,,19.3833297,72.8249931,2024-09-20,12:46:23,
+H,900010030901,,Street light,Three Phase(3),Samta Nagar near Gayatri jewellers,f3cdb7ea-e73f-4567-81c1-e49a5fe9db3a_meter.jpg,,,,19.3826223,72.8242871,2024-09-20,12:59:37,
+H,900010030987,,Street light,Three Phase(3),Mina nagar near chinar building,eca27ce5-c3da-45fc-9b6e-85c39cefc812_meter.jpg,,,,19.3830591,72.8236287,2024-09-20,13:02:34,
+H,900010030979,,Street light,Three Phase(3),Jayeshree App.,a063285c-5a43-4c78-b053-c60e59a358c9_meter.jpg,,,,19.3791059,72.823958,2024-09-20,13:10:28,
+H,900010031045,,Street light,Three Phase(3),Din Dayal nagar, near Ganpati Mandir,cc30a2b0-af26-41f3-930d-febeb9bbbb52_meter.jpg,,,,19.3792376,72.8262219,2024-09-20,13:19:58
+H,900010031363,,Street light,Three Phase(3),Navyug nagar,sai baba mandir,0b8588f0-ed1b-4967-80cf-49483ca6ecac_meter.jpg,,,,19.3779301,72.8251688,2024-09-20,13:15:08
+H,1691637855,,Street light,Three Phase(3),Nageshwar mandir Navyug nagar,aa95037a-c3aa-40cc-b7bf-b48710b3a115_meter.jpg,,,,19.3788191,72.8242334,2024-09-20,13:23:29,
+H,900010031321,,Street light,Three Phase(3),D.G. nagar,3c0f6318-338a-46d0-98cc-3abf72ffd7f2_meter.jpg,,,,19.3817149,72.8231554,2024-09-20,13:07:08,
+H,900010030995,,Street light,Three Phase(3),Divanman gaon Hanuman mandir,5cdb3dfb-b6f8-4bc8-95bf-53bc400c6e74_meter.jpg,,,,19.377664,72.823751,2024-09-20,13:26:02,
+H,1690422995,,Street light,Three Phase(3),Divanman talav ,7522a2ee-17d4-4762-816b-aafb1f703d6d_meter.jpg,,,,19.3784003,72.8234264,2024-09-20,14:44:20,
+H,900010031053,,Street light,Three Phase(3),Dr.Sutariya manikpur naka,94c6b431-0a39-4731-8aeb-ec9796c8280d_meter.jpg,,,,19.3760617,72.8256369,2024-09-20,14:48:16,
+H,900010030952,,Street light,Three Phase(3),Agnel Krupa unity nagar,8e15eb23-530d-40ba-a079-e304a457529d_meter.jpg,,,,19.3766406,72.8206707,2024-09-20,14:57:09,
+H,901788120131,,Street light,Three Phase(3),Chulna bridge,628ae9c4-2b1d-49b8-9304-4f277feef7f9_meter.jpg,,,,19.3778154,72.8142437,2024-09-20,15:23:28,
+H,901788120122,,Street light,Three Phase(3),Chulna Gaon,92138ec0-46c1-4363-9c1a-8b7578e6e85d_meter.jpg,,,,19.3789238,72.811314,2024-09-20,15:27:58,
+H,901780339923,,Street light,Three Phase(3),Chulna khalati pada,5128ae6c-135f-4ea5-a37f-29f6b9eb0fdf_meter.jpg,,,,19.3784628,72.8099761,2024-09-20,15:29:56,
+H,901780479806,,Street light,Three Phase(3),sai baba mandir bhabola,7ccae88c-8f53-454b-b1e5-38cb03f688a3_meter.jpg,,,,19.3666329,72.8155755,2024-09-20,16:15:55,
+H,900010031037,,Street light,Three Phase(3),Dr.prabhulkr near panchratn building,d3b4eeac-00fa-48c1-a13b-54b2708d9391_meter.jpg,,,,19.3760466,72.8227953,2024-09-20,14:52:07,
+H,1780339990,,Street light,Three Phase(3),Kuls City near McDonald's,3ba4740f-b3ff-4fec-a809-2ee6505afe2c_meter.jpg,,,,19.3676064,72.8159196,2024-09-20,16:18:37,
+H,901788120084,,Street light,Three Phase(3),suyog Nagar,ec6c75a5-3301-4c36-b726-6270db0a97e3_meter.jpg,,,,19.371154,72.8173578,2024-09-20,16:26:12,
+H,901788120149,,Street light,Three Phase(3),Krishna Complex near Devas Hotel,15ffcd5f-b327-49a2-ad01-84f427ae22a6_meter.jpg,,,,19.3683614,72.8173006,2024-09-20,16:29:38,
+H,1800509030,,Street light,Three Phase(3),Rajans Complex Near krushn kutir banglow,66d9e6fc-cc05-401c-b4c7-f3e07a9870d9_meter.jpg,,,,19.3667921,72.819367,2024-09-20,16:33:17,
+H,901780492764,,Street light,Three Phase(3),Dr. kale hospital near Home house furniture,3c1f2ceb-5a3d-4c62-b2cd-c0c583a61fb5_meter.jpg,,,,19.3704784,72.8198233,2024-09-20,16:37:24,
+H,901788120092,,Street light,Three Phase(3),Bhabola Pada,a77c5fa3-fc51-4720-af6f-b7805ff79bf2_meter.jpg,,,,19.3690772,72.8168826,2024-09-20,16:22:00,
+H,901780497197,,Street light,Three Phase(3),Aayapa veti opposite Ram Sharda bunglow,f76a3281-7fd1-479b-835b-208b67dc40ad_meter.jpg,,,,19.3705417,72.8206872,2024-09-20,16:41:31,
+H,901788120041,,Street light,Three Phase(3),Prabhu Krupa kunj peti Opposite ice wine,faa84523-26eb-4591-86dc-07424774d1ff_meter.jpg,,,,19.3714668,72.821118,2024-09-20,16:44:43,
+H,900010031371,,Street light,Three Phase(3),Rose bunglow,26ec920b-93d8-4e02-bb1b-039cab121c28_meter.jpg,,,,19.3736666,72.8227021,2024-09-20,16:48:33,
+H,900010030847,,Street light,Three Phase(3),BKS peti near Frtardo Residency,d6f17a90-47bd-43a5-acca-95b60c1f5ce5_meter.jpg,,,,19.3744008,72.8245247,2024-09-20,16:52:57,
+H,900010030944,,Street light,Three Phase(3),Maharashtra School Peti Near One plus Showroom,a79f291f-ddbe-41b0-87fa-3e4875543d7d_meter.jpg,,,,19.3736541,72.8235489,2024-09-20,16:55:31,
+H,901738120033,,Street light,Three Phase(3),Dosti Peti Opposite Trinity hospital,17b42728-4174-4d5e-a631-7386b2a9facd_meter.jpg,,,,19.3720461,72.821995,2024-09-20,16:59:36,
+H,901788120017,,Street light,Three Phase(3),Dhadgibai Peti near Wisteria bunglow,28d0cfce-c87c-424d-949c-146d9ac3e2b2_meter.jpg,,,,19.3716438,72.8267813,2024-09-20,17:04:02,
+H,901788120106,,Street light,Three Phase(3),Hanuman mandir umelman,0c6a26a4-1217-4b34-b130-e88d01c8f32e_meter.jpg,,,,19.3687477,72.8296753,2024-09-20,17:10:26,
+H,901788120025,,Street light,Three Phase(3),Baaviskar Peti Near Sai shradha bunglow,9f721ac0-0184-4301-8b44-e9541d715f93_meter.jpg,,,,19.370713,72.8291393,2024-09-20,17:07:16,
+H,1850318651,,Street light,Three Phase(3),Umelman Smashan bhumi opposite Devnath bunglown,ad6dd075-8759-414b-808e-54bda124a331_meter.jpg,,,,19.3650827,72.828892,2024-09-20,17:17:58,
+H,901780341910,,Street light,Three Phase(3),Kamlubai Peti , near Shree Vinayak appartment,957c5e13-de79-4ddd-a711-302d3b3eda4f_meter.jpg,,,,19.3700747,72.8306912,2024-09-20,17:22:28
+H,901788120114,,Street light,Three Phase(3),Amol Decorater near Hirakunj bunglow,ad0e4d50-33c0-4296-8fdc-cb61444ccd55_meter.jpg,,,,19.3680386,72.8291733,2024-09-20,17:12:59,
+H,900010030910,,Street light,Three Phase(3),Gasubai Peti Near Xavier's School,386164fc-f42b-4e8b-8394-a9fb7cc32168_meter.jpg,,,,19.3733066,72.8272168,2024-09-20,17:27:00,
+H,900010030863,,Street light,Three Phase(3),D.ed. college peti ear gracias House,c2f9e28b-826b-4a48-a1d2-edaf1b563dad_meter.jpg,,,,19.3738073,72.8269708,2024-09-20,17:29:53,
+H,900010031011,,Street light,Three Phase(3),Gavnighar Peti,near Swapnil Bunglow,20f44810-b430-4b53-93ba-0a7cd9bd1e8e_meter.jpg,,,,19.3762577,72.8303283,2024-09-20,17:37:39
+H,900010030936,,Street light,Three Phase(3),Manikpur talav peti. Near manikpur talav,4695efb2-45c7-47a2-92d3-e1e38e73bfeb_meter.jpg,,,,19.375235,72.8283319,2024-09-20,17:34:25,
+H,900010030871,,Street light,Three Phase(3),Lue Peti,Near Greg Vill,3531dda7-1150-4cb7-9d60-50f9895edcb2_meter.jpg,,,,19.3765216,72.8285901,2024-09-20,17:41:04
+H,1690432991,,Street light,Three Phase(3),Manikpur Ground peti ,Ymca association,932c16bd-24d6-48e2-bcbf-c2a70431c4ea_meter.jpg,,,,19.3773213,72.8275834,2024-09-20,17:48:56
+H,900010030880,,Street light,Three Phase(3),Seramic FactoryPeti ,Nicolas house,8696fbee-e980-4ca8-9ff3-2580d5d40217_meter.jpg,,,,19.3769195,72.8277771,2024-09-20,17:43:57
+H,900010030898,,Street light,Three Phase(3),Navpada seva mandal Peti, near p.m. house,78eb783e-d7bf-433b-adfd-0f9f2de3f271_meter.jpg,,,,19.3778454,72.830144,2024-09-20,17:52:58
+H,900010031029,,Street light,Three Phase(3),Dattanar Peti,kanteshwar mahadev mandir,fb013e33-cf68-4271-8afc-895c329317d6_meter.jpg,,,,19.3792233,72.8320397,2024-09-20,17:57:02
+H,900010031096,,Street light,Three Phase(3),Renuka Niwas Peti, ranuka niwas building,cc63a240-e719-4238-a6de-1a684d169d88_meter.jpg,,,,19.3801434,72.8314539,2024-09-20,18:01:38
+H,900000000664,,Street light,Three Phase(3),Veer Savarkar peti, Anand Nagar,8df59055-b7f2-4883-b220-9165693baae6_meter.jpg,,,,19.3813586,72.8304349,2024-09-20,18:05:17
+H,1610037662,,Street light,Three Phase(3),Skywalk Peti, under skywalk,9a9f5c80-d571-478d-bb4c-c04e50498f0f_meter.jpg,,,,19.3825144,72.8303138,2024-09-20,18:09:00
+H,900010031347,,Street light,Single Phase(1),Thakre nagar, Desai Hospital,bcb9dfcf-dfc7-4e81-a034-8ec46857fc9b_meter.jpg,,,,19.3826698,72.8311987,2024-09-20,18:13:09
+H,900010030766,,Street light,Three Phase(3),Sushila bhavan Peti, frot of Parvati talkies,7556a203-86fd-4965-b550-8832e05803c5_meter.jpg,,,,19.380089,72.8285812,2024-09-20,18:25:21
+H,900010030855,,Street light,Three Phase(3),Samajunnati peti, manikpur petrol pumb,098e1125-4684-446e-a911-15557bf84b19_meter.jpg,,,,19.3767776,72.8263631,2024-09-20,18:31:05
+H,1610029872,,Street light,Three Phase(3),Gurudwara Peti, near Laxmi Palace,9cf498da-7cd9-4533-8a29-4e3e8df571bc_meter.jpg,,,,19.3834087,72.8291801,2024-09-20,18:20:01

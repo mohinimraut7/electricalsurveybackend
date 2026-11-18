@@ -1,0 +1,70 @@
+{
+  "sources": {
+    "VVCM.resnewdatas.json": true,
+    "VVCM.resnewdats.json": true,
+    "VVCM.staticdatas.json": true,
+    "VVCM.logindatas.json": true,
+    "ward_A.csv": true,
+    "ward_B.csv": true,
+    "ward_C.csv": true,
+    "ward_D.csv": true,
+    "ward_E.csv": true,
+    "ward_F.csv": true,
+    "ward_G.csv": true,
+    "ward_H.csv": true,
+    "ward_I.csv": true,
+    "MeterData.csv": true,
+    "polesData.csv": true
+  },
+  "meters": {
+    "fromJson": 999,
+    "fromCsvExtra": 0,
+    "csvMerged": 538,
+    "valid": 999,
+    "skipped": [],
+    "perWard": {
+      "Ward G": 120,
+      "Ward I": 167,
+      "Ward E": 101,
+      "Ward D": 38,
+      "Ward H": 84,
+      "Ward A": 204,
+      "Ward B": 62,
+      "Ward C": 105,
+      "Ward F": 118
+    },
+    "photosWritten": 130,
+    "flags": {
+      "suspicious_consumer_id": 10,
+      "image_not_available": 866,
+      "test_entry": 4,
+      "missing_image": 3,
+      "not_in_master_list": 13,
+      "missing_address": 1
+    }
+  },
+  "poles": {
+    "fromJson": 7341,
+    "fromCsv": 28,
+    "valid": 7369,
+    "skipped": [],
+    "photosWritten": 28,
+    "flags": {
+      "suspicious_light_count": 247,
+      "missing_location": 107,
+      "test_entry": 2,
+      "no_matching_meter": 8,
+      "out_of_area": 2
+    }
+  },
+  "master": {
+    "consumers": 1548,
+    "duplicatesDropped": 378,
+    "suspicious": 20
+  },
+  "users": {
+    "found": 12,
+    "imported": 12,
+    "skippedExisting": 0
+  }
+}

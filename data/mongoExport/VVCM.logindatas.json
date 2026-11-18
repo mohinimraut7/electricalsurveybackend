@@ -1,0 +1,158 @@
+[
+  {
+    "_id": {
+      "$oid": "66b5efdd4c93621ae8a62c2d"
+    },
+    "Name": "xyst",
+    "Email": "xyst@gmail.com",
+    "Phone": "8080440468",
+    "Role": "Admin",
+    "Ward": "A",
+    "HashPassword": "$2a$10$Cij5pyc8/zQDVU7dK9JRyuK/I0jykeOKmhuS7JoIAOjI0p6m0rkva",
+    "SuperAdmin": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "677d22434bd6774c2f03441d"
+    },
+    "Name": "Mandar Patil",
+    "Email": "mandar@gmail.com",
+    "Phone": "9028659932",
+    "Role": "Junior Engineer",
+    "Ward": "G",
+    "HashPassword": "$2a$10$5aIkU09nAKMAbL/dVfJRQO907i16xtSEH1sIB3smQ44hPTgSnkWQO",
+    "SuperAdmin": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "677f97804bd6774c2f117369"
+    },
+    "Name": "Ward A",
+    "Email": "warda@gmail.com",
+    "Phone": "8080440468",
+    "Role": "Surveyor",
+    "Ward": "A",
+    "HashPassword": "$2a$10$e93JmNaUMuSofQwBm5tf4unkRxZN7BIpN9V6tiK2beo.1e6Vyk/ey",
+    "SuperAdmin": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "677f97a24bd6774c2f117390"
+    },
+    "Name": "Ward C",
+    "Email": "wardc@gmail.com",
+    "Phone": "8080440468",
+    "Role": "Surveyor",
+    "Ward": "C",
+    "HashPassword": "$2a$10$Rrt3v3N24m0B.nGhxsub2.CcG0mmKzd.J07tjQGl5rBoCZnEIOlUa",
+    "SuperAdmin": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "677f98014bd6774c2f117a47"
+    },
+    "Name": "Ward B",
+    "Email": "wardb@gmail.com",
+    "Phone": "8080440468",
+    "Role": "Surveyor",
+    "Ward": "B",
+    "HashPassword": "$2a$10$UVExHRw1WjnHnB.XCqUmLe.wKPB5CzlveYc.wYWeXTAX3ygD2SVXC",
+    "SuperAdmin": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "677f98284bd6774c2f117a7d"
+    },
+    "Name": "Ward D",
+    "Email": "wardd@gmail.com",
+    "Phone": "8080440468",
+    "Role": "Surveyor",
+    "Ward": "D",
+    "HashPassword": "$2a$10$qxncV4Q/DitTJdarCdZDyurah133tU8IX4VzDrPezGDlfCF2m4SxO",
+    "SuperAdmin": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "677f98594bd6774c2f117e84"
+    },
+    "Name": "Ward E",
+    "Email": "warde@gmail.com",
+    "Phone": "8080440468",
+    "Role": "Surveyor",
+    "Ward": "E",
+    "HashPassword": "$2a$10$8qfomvBp3IEIY0/VFgFxues3RIym36GrqGoj.b0TZZ3wJZWE76z9i",
+    "SuperAdmin": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "677f988b4bd6774c2f11828d"
+    },
+    "Name": "Ward F",
+    "Email": "wardf@gmail.com",
+    "Phone": "8080440468",
+    "Role": "Surveyor",
+    "Ward": "F",
+    "HashPassword": "$2a$10$yBU2oBRXBihyZLX.oUlYZuTPckhSsPtqwpCcpp1NcMWIangfwCeem",
+    "SuperAdmin": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "677f98da4bd6774c2f119baa"
+    },
+    "Name": "Ward G",
+    "Email": "wardg@gmail.com",
+    "Phone": "8080440468",
+    "Role": "Surveyor",
+    "Ward": "G",
+    "HashPassword": "$2a$10$MXCeEMeoSUQ.mxoYqM.poOvHNVGgp5mnBQ0gnCrzBtGHUagQ5202.",
+    "SuperAdmin": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6788e0094bd6774c2f267c09"
+    },
+    "Name": "Saavi",
+    "Email": "saavi@gmail.com",
+    "Phone": "8080440468",
+    "Role": "Admin",
+    "Ward": "A",
+    "HashPassword": "$2a$10$r08KO5mj8jjveK8UoDaqseY9T7coU679LXcQKBf8ADot.LQyu7o3C",
+    "SuperAdmin": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "679b11ec4bd6774c2f480973"
+    },
+    "Name": "Ward H",
+    "Email": "wardh@gmail.com",
+    "Phone": "8080440468",
+    "Role": "Surveyor",
+    "Ward": "H",
+    "HashPassword": "$2a$10$lptur5OwBcoj/g9XG3RQieR1YHS1sEHTCft/z5jsEVfSqflukrTUe",
+    "SuperAdmin": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "679b123d4bd6774c2f480e60"
+    },
+    "Name": "Ward I",
+    "Email": "wardi@gmail.com",
+    "Phone": "8080440468",
+    "Role": "Surveyor",
+    "Ward": "I",
+    "HashPassword": "$2a$10$vcgMqcborEFRyl7KYisAV.wSXDNTH41oMtJs540dR/epn9L1MUaCK",
+    "SuperAdmin": false,
+    "__v": 0
+  }
+]

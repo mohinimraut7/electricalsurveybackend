@@ -1,0 +1,89 @@
+WardCommittee,ConsumerID,NewMeterNumber,Purpose,Type,Address,MeterImageData,TimerPanelImage,SanctionLoad,TimerPanel,MeterLatitude,MeterLongitude,Date,Time
+G,900620000036,,Street light,Single Phase(1),kolikar pada,c85bb2c5-99db-4f86-af5f-51c11ea455fd_meter.jpg,,,,19.4180422,72.8732194,2024-08-12,17:01:16
+G,900370000043,,Street light,Three Phase(3),valiv naka near by mohan baghat smarak,ffcf2b9b-b92c-40b0-9275-559782fb9aee_meter.jpg,,,,19.417044,72.861398,2024-08-12,16:07:45
+G,2170181274,,Street light,Single Phase(1),Baile cha pada,3534a16b-f930-45d3-b715-3a4a6edf8093_meter.jpg,,,,19.4114083,72.87304,2024-08-12,17:09:39
+G,1841896188,,Street light,Three Phase(3),Dhumal nagar naka ,41494e03-131a-4b9e-8d73-d37f98945ff9_meter.jpg,,,,19.4235101,72.8657371,2024-08-12,16:26:29
+G,1843880424,,Street light,Three Phase(3),Dhumal nagar SAGAR INDUSTRIAL ROAD ,b8382713-10d2-4e6f-b9af-ed101af794cf_meter.jpg,,,,19.4200627,72.8675309,2024-08-12,16:48:45
+G,1843873304,,Street light,Single Phase(1),Dhumal nagar smashan bhumi ,cc9759c5-f199-4a9f-9296-7ddc71f9a8c8_meter.jpg,,,,19.4208521,72.8723301,2024-08-12,16:54:57
+G,900630000026,,Street light,Single Phase(1),katela pada,8ab27c6a-97f5-49cc-ae78-eda9bec52722_meter.jpg,,,,19.415151,72.8689017,2024-08-12,17:17:17
+G,1843878829,,Street light,Three Phase(3),Shivbhim nagar,4cc9d298-59a9-4483-b767-6505685c1eec_meter.jpg,,,,19.4146103,72.8712512,2024-08-12,17:14:56
+G,1840339005,,Street light,Three Phase(3),opposite vitthal mandir ,e07ed949-162e-4c90-82ff-205945a54d08_meter.jpg,,,,19.4208652,72.8643076,2024-08-12,16:19:01
+G,1843992095,,Street light,Three Phase(3),walvi gav Sachin wala samor,9bc816a9-b22c-477d-ac47-05d749efdf8a_meter.jpg,,,,19.4108593,72.8626082,2024-08-12,17:45:22
+G,1840329981,,Street light,Single Phase(1),tarke nagar ,db18b960-0a34-46f4-8c69-a135defbbfc5_meter.jpg,,,,19.4063798,72.8662816,2024-08-12,17:53:34
+G,1591641855,,Street light,Three Phase(3),shivaji nagar ,c5a70488-bada-4365-b2fa-a486b2a7d67b_meter.jpg,,,,19.405861,72.8609325,2024-08-12,17:58:09
+G,1843857422,,Street light,Three Phase(3),Golani naka,44d16d13-6f50-4bdd-b3e5-9b2f142688cf_meter.jpg,,,,19.4137535,72.8581706,2024-08-12,18:05:31
+G,1843992109,,Street light,Single Phase(1),Walvi talav Market ,56f79ba0-0559-43fa-a5e5-56df92dcf2c4_meter.jpg,,,,19.4155941,72.8607712,2024-08-12,18:10:03
+G,1843881102,,Street light,Single Phase(1),mandva devi vasaht,75433e80-9771-441f-a1a8-33dc8343c983_meter.jpg,,,,19.4081125,72.8644119,2024-08-12,17:49:20
+G,1843860075,,Street light,Three Phase(3),Walvi talav garden ,f1f3bfbd-b064-4f20-9b37-847947acba12_meter.jpg,,,,19.4153682,72.8609893,2024-08-12,18:13:04
+G,900400000043,,Street light,Three Phase(3),tarikinagar walivi fata,ae4cff93-ae55-4c57-bf6b-c194a56ae333_meter.jpg,,,,19.4067448,72.8654194,2024-08-12,17:55:08
+G,900010006628,,Street light,Three Phase(3),Ghokavari church near by talav ,b7f2c71c-5ed8-48f7-a201-5858ad836e50_meter.jpg,,,,19.4007744,72.8434312,2024-08-13,13:37:19
+G,900010006636,,Street light,Single Phase(1),Ghokavari neeli gagan society ,1b66a180-2049-4fce-8fc8-f9c7def26e33_meter.jpg,,,,19.3977651,72.8453251,2024-08-13,13:54:12
+G,159790165,,Smashan Bhumi,Three Phase(3),Devi pada smashan bhumi ,8483842e-3f83-4b84-aa98-32f96145a3aa_meter.jpg,,,,19.3991367,72.847785,2024-08-13,14:01:23
+G,1843880416,,Street light,Three Phase(3),waliv opposite zp school,a24ec346-8ae4-4f70-b640-69b2b989f332_meter.jpg,,,,19.4141412,72.8627846,2024-08-13,12:48:24
+G,1590404884,,Street light,Three Phase(3),Ghokavari madhuban heghit,f2d2db24-ba87-49a6-a5c8-124bd9b1968e_meter.jpg,,,,19.3980742,72.8411289,2024-08-13,14:11:49
+G,900010006687,,Street light,Three Phase(3),Ghokavari ramrahim near by ever shine,5097edd4-5f28-470c-ae3a-ee4b3e61a3dc_meter.jpg,,,,19.4047687,72.8409175,2024-08-13,14:20:14
+G,900010006610,,Street light,Three Phase(3),Ghokavari Ambedkar chowk,99f2e12b-9c0b-4c62-b22c-4eed2ae1d27b_meter.jpg,,,,19.3991981,72.8440027,2024-08-13,13:47:09
+G,900540000035,,Street light,Three Phase(3),father wadi naka near by talati office ,82baa592-65f2-4e79-a945-1a5fc0d13cc3_meter.jpg,,,,19.4036673,72.8459834,2024-08-13,14:30:02
+G,1598883161,,Street light,Single Phase(1),Father wadi hanuman mandir ,f1ae6530-c5e5-406b-bd90-f6bc53b05002_meter.jpg,,,,19.4054168,72.8438028,2024-08-13,14:36:50
+G,159894186,,Street light,Single Phase(1),father wAdi bhag pada,18ba556d-6087-41e0-bd63-dbd03057ae8e_meter.jpg,,,,19.4076612,72.8431813,2024-08-13,14:42:52
+G,1593835363,,Street light,Single Phase(1),Shanti pada,9b160f3a-0663-4604-80d2-8fd4b67f4d11_meter.jpg,,,,19.4075831,72.8452619,2024-08-13,14:48:35
+G,900010006652,,Street light,Single Phase(1),jankia pada Ramdas chal,7eee5751-56db-47be-8e62-84a97c989baf_meter.jpg,,,,19.4104404,72.847376,2024-08-13,14:54:35
+G,1598883170,,Street light,Three Phase(3),Ghokavari naka near by talav,7e4cfc7f-b0ea-4f32-b893-98436661fd2d_meter.jpg,,,,19.40063,72.8431683,2024-08-13,13:34:16
+G,1590628839,,Street light,Single Phase(1),janki pada jhila parieshad school,1450c59b-1b6d-43e9-a289-066f9e69a662_meter.jpg,,,,19.4121538,72.8479427,2024-08-13,15:00:01
+G,900010006644,,Street light,Single Phase(1),chenchpada ,a156c997-6ef7-4f79-a484-657568759f9c_meter.jpg,,,,19.4105282,72.8545505,2024-08-13,15:21:52
+G,900520000039,,Street light,Single Phase(1),Vardhaman near by police station ,762f9113-3f15-4169-ae3f-7f60ba8f348d_meter.jpg,,,,19.409859,72.8511775,2024-08-13,15:14:16
+G,1598890257,,Street light,Three Phase(3),bhoyedapada dumping ground ,9489bfd3-fd8b-4571-9ca1-d5c02d6f74e9_meter.jpg,,,,19.403435,72.8595083,2024-08-13,15:43:19
+G,900014464612,,Street light,Three Phase(3),chenchpada naka industrial meter,0ae167a6-3b9f-4edf-958f-cdbd5d3f8090_meter.jpg,,,,19.4098583,72.8547725,2024-08-13,15:27:22
+G,2178393823,,Street light,Three Phase(3),Bhoyedapada dumping ground ,2c195d3d-2a8f-40fa-9df0-147a931d1189_meter.jpg,,,,19.4049734,72.8597533,2024-08-13,15:50:34
+G,1590628898,,Street light,Single Phase(1),jankia pada near by Pani taki ,0443126f-c8b7-44aa-9d48-1b14570b0a46_meter.jpg,,,,19.4102235,72.849299,2024-08-13,15:06:58
+G,2178401729,,Street light,Three Phase(3),Bhoyedapada dumping ground ,fb7060ac-1ca5-4625-afd7-37b76f83044c_meter.jpg,,,,19.4016267,72.8579167,2024-08-13,15:51:58
+G,900010006695,,Street light,Single Phase(1),bhoyedapada sai baba Mandir ,1199f5f6-ad6a-47db-8aae-734cfcd38a5e_meter.jpg,,,,19.4048307,72.8573618,2024-08-13,16:00:02
+G,900530000045,,Street light,Single Phase(1),bhoyedapada Ganesh Mandir ,5089478c-38da-476d-a6a7-b54bff7fc77d_meter.jpg,,,,19.401864,72.8558349,2024-08-13,16:07:35
+G,1593822059,,Street light,Three Phase(3),bhoyedapada high mast naka,4697b1af-5c88-4eb4-abc5-950b0fc3d5b4_meter.jpg,,,,19.4054767,72.8558604,2024-08-13,16:11:49
+G,1552659402,,Street light,Single Phase(1),Gogkari range office ,7403636b-b874-4726-ad23-76a9527f6914_meter.jpg,,,,19.4061553,72.8498056,2024-08-13,16:25:29
+G,1551572460,,Street light,Three Phase(3),range office high maast,5fb796c2-bdab-497e-b2cd-fc1b1db38935_meter.jpg,,,,19.4059339,72.849798,2024-08-13,16:28:05
+G,1552679063,,Street light,Three Phase(3),father wadi naka ,408b3417-0eb7-4e9e-99e9-d9578567b6c1_meter.jpg,,,,19.4033848,72.8462136,2024-08-13,16:45:07
+G,2173794587,,Street light,Three Phase(3),satavli naka ,23e1eac2-a830-4688-bc48-0cf3f56a7e78_meter.jpg,,,,19.4060763,72.8724667,2024-08-14,13:16:18
+G,900690000033,,Street light,Single Phase(1),satavli naka mahanagar palika office ,80d8c8aa-393a-4a5d-a272-00f624504fd6_meter.jpg,,,,19.4067029,72.8731634,2024-08-14,13:10:37
+G,1591633402,,Street light,Single Phase(1),parmar residency range office ,89031121-972a-4093-a077-da9d2c1965d1_meter.jpg,,,,19.4037822,72.8489313,2024-08-13,16:37:46
+G,900690000025,,Smashan Bhumi,Three Phase(3),mahadev nagar smashan bhumi ,dbbe6dee-04fc-4d31-9863-0a8719d77e7a_meter.jpg,,,,19.4094812,72.8748043,2024-08-14,13:49:25
+G,2178393253,,Street light,Three Phase(3),satiwli kura pada,c4946517-d416-4438-a2bd-14acef92b073_meter.jpg,,,,19.4052187,72.872357,2024-08-14,13:56:13
+G,2170171112,,Street light,Single Phase(1),morya naka bhakti niwas,b1c99664-46fb-4bd7-b3aa-44981a7daf8a_meter.jpg,,,,19.4090945,72.8731534,2024-08-14,13:46:33
+G,1552682382,,Street light,Three Phase(3),father wadi Naveen emart,d7888b94-555f-4c07-ab62-963497f748a9_meter.jpg,,,,19.4037504,72.8454246,2024-08-13,16:42:24
+G,2173841623,,Street light,Three Phase(3),mhangar palika bus depo ,de528c74-9065-40a9-bce8-98adb997a4ca_meter.jpg,,,,19.4047368,72.8762837,2024-08-14,14:08:17
+G,2170271753,,Street light,Three Phase(3),tungar pada,c0db5d80-9f93-4ed2-8a86-d13def65b877_meter.jpg,,,,19.4106294,72.8782126,2024-08-14,13:58:34
+G,217320438,,Street light,Single Phase(1),gautam nagar ,2f0559e8-655e-4b39-9337-9d991924e1cb_meter.jpg,,,,19.4130386,72.8762395,2024-08-14,13:54:07
+G,2173788218,,Street light,Three Phase(3),gederye pada Nepal chawl,8de975b9-4cc8-4087-8579-fa54c8697757_meter.jpg,,,,19.4112787,72.8810412,2024-08-14,14:05:35
+G,2178408405,,Street light,Single Phase(1),gavdevi palt pada,5a4a2458-97ec-44ad-bf07-59b204c0d40f_meter.jpg,,,,19.4027879,72.8753086,2024-08-14,14:16:49
+G,2170171121,,Street light,Single Phase(1),ghedryepada Shani mandir ,85353feb-c723-4aa3-a37d-d417a7cd7d66_meter.jpg,,,,19.4115334,72.885307,2024-08-14,14:09:59
+G,2173831300,,Street light,Three Phase(3),mitlay nagar ,b6e1b626-5e70-410f-b85f-7a915358d331_meter.jpg,,,,19.4019303,72.8720534,2024-08-14,14:00:27
+G,2170271745,,Street light,Single Phase(1),bailgora pada ,44027cd2-6bda-4f69-921e-579f28c8ae43_meter.jpg,,,,19.4132003,72.8762824,2024-08-14,14:17:33
+G,1841895734,,Street light,Three Phase(3),Laxmi industry,0fd2070f-d589-4b96-b1c9-295a5ff454d8_meter.jpg,,,,19.4069483,72.8676249,2024-08-14,14:46:16
+G,218314595,,Street light,Three Phase(3),satiwli talav,e751828c-efcb-4ebd-9796-b7ac7f8d4177_meter.jpg,,,,19.4048476,72.8748443,2024-08-14,14:26:24
+G,2173831236,,Street light,Three Phase(3),ghedryde palat pada ,e980b8de-3442-4a88-97d5-25b17760c295_meter.jpg,,,,19.4152383,72.88407,2024-08-14,14:25:50
+G,1689359082,,Street light,Three Phase(3),este depo,c8eca254-314b-4577-8fbc-53e4b25fc840_meter.jpg,,,,19.416071,72.8162838,2024-08-21,11:45:07
+G,900670000029,,Street light,Three Phase(3),bapane tabela pada,b55000b8-5f65-415e-9c6f-a8120f9b5218_meter.jpg,,,,19.302405,72.9054017,2024-09-20,10:51:04
+G,900080000295,,Street light,Single Phase(1),sasunavaghar,35cf41dd-a1e3-4f6e-9e92-95855ad6b271_meter.jpg,,,,19.3172723,72.8971978,2024-09-20,12:01:28
+G,2120011645,,Street light,Single Phase(1),pathar pada,6ba66ff4-2ca8-4da1-9fdf-0171a43b7659_meter.jpg,,,,19.3206764,72.8956297,2024-09-20,12:06:36
+G,900610000038,,Street light,Single Phase(1),sasupada 1,46a99de1-527f-43e9-ba29-b1b14570e43b_meter.jpg,,,,19.300128,72.9058722,2024-09-20,11:36:33
+G,900030001941,,Street light,Three Phase(3),bapane naka,58003c31-6998-439f-8104-63d0a9838db3_meter.jpg,,,,19.366435,72.8918483,2024-09-20,12:20:58
+G,2141949864,,Street light,Three Phase(3),juchandra smashan bhumi,da872302-833c-43bc-9f61-f6ac3f64dda1_meter.jpg,,,,19.3566417,72.8704257,2024-09-20,12:42:27
+G,2310003908,,Street light,Single Phase(1),sasupada 2,bd61a26c-42aa-44b9-9dfe-fe38986a02d2_meter.jpg,,,,19.3001117,72.9058817,2024-09-20,11:41:24
+G,2141949945,,Street light,Three Phase(3),vaman dhaba ,a24a3e25-dcce-4c88-8dc9-965b317c79d0_meter.jpg,,,,19.3583252,72.8577453,2024-09-20,16:35:23
+G,2140266982,,Street light,Three Phase(3),someshvar nager,bcfb0626-8d85-49d6-a008-bbeb13fa846f_meter.jpg,,,,19.3581161,72.8634392,2024-09-20,16:38:28
+G,2142011436,,Street light,Three Phase(3),mharte wadi,7e777171-f16a-4be0-b756-897bd3c07fd6_meter.jpg,,,,19.352085,72.8646217,2024-09-20,16:41:26
+G,2141827521,,Street light,Three Phase(3),rashmi srtar city,203356d4-01de-4c56-809c-456fb8552d80_meter.jpg,,,,19.3592533,72.8641033,2024-09-20,16:46:08
+G,900200000031,,Street light,Three Phase(3),kuch mera datta aali,a617b763-8f7f-400c-a1e0-9dc6f83e2ca3_meter.jpg,,,,19.3537851,72.8719236,2024-09-20,16:52:07
+G,2141811404,,Street light,Three Phase(3),hasoba mandir juchnadra,f024654a-4961-4c55-a99d-124adf7d4d2f_meter.jpg,,,,19.350855,72.8737917,2024-09-20,16:55:27
+G,2141949899,,Street light,Three Phase(3),bhagabai nager,cf53f343-945d-48ff-9ee4-8a426552d804_meter.jpg,,,,19.3554498,72.8743482,2024-09-20,17:05:25
+G,2141807172,,Street light,Three Phase(3),juchndra talav ,f754ff45-695d-4efc-bbfc-561ef8aa7e59_meter.jpg,,,,19.3574546,72.8723741,2024-09-20,17:08:55
+G,900640000075,,Street light,Three Phase(3),karmavir bhaurav peti,6ea9dfe9-469e-46d4-9321-cca378b4076b_meter.jpg,,,,19.3579217,72.8690733,2024-09-20,17:28:13
+G,2141949872,,Street light,Three Phase(3),don bosco school ,ad55dbcb-fa2a-4cfb-9e0d-4dc53eba15b0_meter.jpg,,,,19.3595895,72.8538848,2024-09-20,17:34:56
+G,900210000039,,Street light,Three Phase(3),juchndra stasion road,a5230bf7-52dd-4e96-9681-9ff811e716ec_meter.jpg,,,,19.358136,72.8458938,2024-09-20,17:55:10
+G,900680000027,,Street light,Three Phase(3),parera nager dr sutariya,ff834f61-5bd3-4840-8ccf-9aae8c85761b_meter.jpg,,,,19.3606483,72.8475117,2024-09-20,17:51:13
+G,2141949856,,Street light,Three Phase(3),citizan gardan,3e15aed3-a7ba-4041-a588-e48f26dac16f_meter.jpg,,,,19.3631883,72.84731,2024-09-20,18:00:48
+G,2211340021,,Street light,Three Phase(3),suntack ,e38acc08-774e-47ee-a22f-e359c85730a2_meter.jpg,,,,19.3647823,72.8597353,2024-09-20,18:09:25
+G,900240000033,,Street light,Three Phase(3),rajavali,998dff2e-effd-48a6-b0bb-fae5fe2f11e5_meter.jpg,,,,19.3798942,72.8559251,2024-09-20,18:17:03
+G,2141827513,,Street light,Three Phase(3),citizan ,8ac0cabc-3db3-487c-951f-482b61445866_meter.jpg,,,,19.3620166,72.8455241,2024-09-20,17:58:21
+G,9000230000043,,Street light,Three Phase(3),kelicha pada,2b2e366a-26b2-4eef-bbf2-770bf3533c37_meter.jpg,,,,19.391184,72.8577461,2024-09-20,18:22:35
+G,900130000038,,Street light,Three Phase(3),rajavali aasharm,23f90f0d-47a2-4128-9c4e-2febed0b7bb0_meter.jpg,,,,19.396855,72.8569118,2024-09-20,18:26:30
